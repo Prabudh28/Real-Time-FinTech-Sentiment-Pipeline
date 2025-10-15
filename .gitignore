@@ -1,0 +1,16 @@
+# Secret configuration files
+# This is the MOST important line. It prevents your secret keys from being uploaded.
+config.ini
+
+# Python virtual environment folder
+# This is large, specific to your machine, and can be recreated by others.
+venv/
+
+# Python cache files
+# These are temporary files Python creates to run your code faster.
+__pycache__/
+*.pyc
+
+# Editor-specific settings folders (e.g., for VSCode)
+# These are your personal settings and don't belong in the project.
+.vscode/
