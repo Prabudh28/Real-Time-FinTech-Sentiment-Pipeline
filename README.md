@@ -14,6 +14,9 @@ The data flows through the following stages:
 5.  **Visualization:** A **Google Looker Studio** dashboard connects directly to the Azure SQL Database to provide a live, interactive view of market sentiment.
 
 Here is a visual representation of the pipeline's architecture:
+
+![Project Architecture Diagram](https://github.com/Prabudh28/Real-Time-FinTech-Sentiment-Pipeline/blob/6b4a1821d4b02965c98e57942a5d35d6c0fdc8e9/Images/Architecture.png)
+
 ![Project Architecture Diagram](https://github.com/Prabudh28/Real-Time-FinTech-Sentiment-Pipeline/blob/f04b6d2bf228803095bb29424d11209fe4751d9f/Images/Pipeline_Architecture.png)
 
 The Azure Stream Analytics Job Diagram further illustrates the logical flow:
